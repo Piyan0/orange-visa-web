@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.d{
+  border:2px solid blue;
+}
+.dd{
+  border:2px solid red;
+}
+
+*{
+  font-family: 'Poppins';
+}
+
+.layer{
+  @apply h-full w-full top-0 left-0 absolute
+}
