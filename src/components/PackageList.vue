@@ -6,7 +6,7 @@
   <p class="mx-4 text-xl text-center font-bold text-gray-700">Packages</p>
   <p class="mx-4 text-gray-500 text-center text-sm">Enjoy our beloved packages</p>
   <div class="my-4"></div>
-  <div class="mx-2 flex gap-4 flex-wrap items-center justify-center">
+  <div class="mx-2 flex gap-4 flex-wrap justify-center">
     <Package
       tittle="Lover's Retreat Package"
       detail="A romantic getaway to a secluded cabin in the woods with a private hot tub, starlit dinners, and cozy fireplaces."></Package>
